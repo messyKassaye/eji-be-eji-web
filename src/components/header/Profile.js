@@ -9,11 +9,8 @@ export default function Profile() {
 
       {/**Desktop and large view */}
       <div className="flex hidden md:block items-center">
-        <Button size="large" className="mr-20 text-5xl" type="link">
-          Login
-        </Button>
         <Button size="large" type="primary">
-          Sign up
+          Post your need
         </Button>
       </div>
     </div>

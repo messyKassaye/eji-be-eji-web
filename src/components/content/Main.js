@@ -6,7 +6,7 @@ import Posts from "./Posts";
 export default function Main() {
   return (
     <div>
-      <div class="grid grid-cols-4">
+      <div class="grid grid-cols-4 gap-1">
         <div>
           <Categories />
         </div>

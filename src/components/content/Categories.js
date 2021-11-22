@@ -1,5 +1,6 @@
+import { Card } from "antd";
 import React from "react";
 
 export default function Categories() {
-  return <div>Categories</div>;
+  return <Card className="flex fixed p-10"></Card>;
 }
