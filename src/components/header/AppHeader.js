@@ -1,4 +1,4 @@
-import { Button, Divider } from "antd";
+import { Divider } from "antd";
 import React from "react";
 import Logo from "../../commons/Logo";
 import Profile from "./Profile";
